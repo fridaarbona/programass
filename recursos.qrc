@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="Logos">
+    <file>Imagenes/perro enojao xd.jpg</file>
+    <file>Imagenes/piedra.jpeg</file>
+    <file>Imagenes/the-synthwave-138196.wav</file>
+    <file>Imagenes/tijeras.jpeg</file>
+    <file>Imagenes/uat logo.jpg</file>
+    <file>Imagenes/yo xd.jpg</file>
+    <file>Imagenes/amando xd.jpeg</file>
+    <file>Imagenes/bonillas.jpeg</file>
+    <file>Imagenes/club america aguilas.png</file>
+    <file>Imagenes/foto.jpeg</file>
+    <file>Imagenes/ingenieria logo.png</file>
+    <file>Imagenes/jeremias.jpeg</file>
+    <file>Imagenes/logo programador.png</file>
+    <file>Imagenes/papel.jpeg</file>
+  </qresource>
+</RCC>
